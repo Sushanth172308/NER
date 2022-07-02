@@ -1,2 +1,1 @@
-# NER
-NER-project
+# Name_Entity_Recognition_Pytorch
